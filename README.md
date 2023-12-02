@@ -8,7 +8,6 @@
 - Azure DevOps
 ### 📫 How to reach me:
 - saadaryf@gmail.com
-- 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
