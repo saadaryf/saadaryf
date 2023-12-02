@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🔭 I’m currently working on:
-- Twitter-Clone
+- Twitter-Clone (Spring Boot Java)
 ## 🌱 I’m currently learning:
 - React.js
 - Laravel
