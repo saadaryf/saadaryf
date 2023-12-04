@@ -18,8 +18,9 @@
 
 ## 📫 How to reach me:
 - saadaryf@gmail.com
-
+<!--
 ## 📈 Stats
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=saadaryf&show_icons=true&theme=gotham" alt="saadaryf" />
 </p>
+-->
