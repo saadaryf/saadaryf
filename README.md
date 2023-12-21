@@ -3,7 +3,7 @@ I'm Saad Arif, a passionate developer with expertise in Java, Spring Boot, and m
 ## 🔭 I’m currently working on:
 - Expense-Tracker (Spring Boot Java)
 ## 🌱 I’m currently learning:
-- Python, React.js, Laravel, Azure DevOps
+- Python, Kubernetes, React.js, Laravel
 ## 🧑‍💻 Languages:
 - **Frontend:**
   - HTML, CSS, JavaScript
