@@ -18,7 +18,7 @@ I'm Saad Arif, a passionate developer with expertise in Java, Spring Boot, and m
 - **Tools:**
   - Git
   - Docker
-  - Scrum Working
+  - Azure DevOps
 ## 📫 How to reach me:
 - saadaryf@gmail.com
 
