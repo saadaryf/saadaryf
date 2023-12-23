@@ -3,7 +3,7 @@ I'm Saad Arif, software engineer with expertise in Java, Spring Boot, and more. 
 ## 🔭 I’m currently working on:
 - A clothing related project (Spring Boot Java, Machine Learning)
 ## 🌱 I’m currently learning:
-- Python, Kubernetes, React.js, Laravel
+- Spring Boot, Python, Kubernetes
 ## 🧑‍💻 Languages:
 - **Frontend:**
   - HTML, CSS, JavaScript
