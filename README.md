@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Saad Arif, software engineer with expertise in Java, Spring Boot, and more. Welcome to my GitHub!
 ## 🔭 I’m currently working on:
-- Expense-Tracker (Spring Boot Java)
+- A clothing related project (Spring Boot Java, Machine Learning)
 ## 🌱 I’m currently learning:
 - Python, Kubernetes, React.js, Laravel
 ## 🧑‍💻 Languages:
