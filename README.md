@@ -1,9 +1,9 @@
 # Hi there 👋
 I'm Saad Arif, software engineer with expertise in Java, Spring Boot, and more. Welcome to my GitHub!
 ## 🔭 I’m currently working on:
-- Gender Classifier in Machine Learning
+- Multiple Projects in Machine Learning
 ## 🌱 I’m currently learning:
-- AWS, Machine Learning, Kubernetes, Information Security.
+- Machine Learning, Computer Vision, Kubernetes, Information Security, AWS.
 ## 🧑‍💻 Languages:
 - **Frontend:**
   - HTML, CSS, JavaScript
