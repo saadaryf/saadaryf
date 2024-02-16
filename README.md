@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Saad Arif, software engineer with expertise in Java, Spring Boot, and more. Welcome to my GitHub!
 ## 🔭 I’m currently working on:
-- Multiple Projects in Machine Learning
+- A Project in Spring Boot
 ## 🌱 I’m currently learning:
 - Machine Learning, Computer Vision, Kubernetes, Information Security, AWS.
 ## 🧑‍💻 Languages:
