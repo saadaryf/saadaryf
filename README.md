@@ -1,74 +1,98 @@
 <div align="center">
-  
-╔═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╗
 
-# 『 Welcome to My Digital Universe 』
+```ascii
+           ⊹ ⊹        .      ⊹      *    ·   ✧   ·   *  
+    *   ⊹    ✦    ·   *     ⊹    *    ⊹    *    ⊹ 
+      ⊹   *    ·    ⊹    *    ⊹    *    ⊹     *   ·  
+```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devsaura.com-blueviolet?style=for-the-badge&logo=about.me&logoColor=white)](https://devsaura.com)
-[![Email](https://img.shields.io/badge/Email-saadaryf@gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadaryf@gmail.com)
+# 『 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕥𝕙𝕖 ℂ𝕠𝕕𝕖 ℂ𝕠𝕤𝕞𝕠𝕤 』
 
-▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=7A28F7&center=true&vCenter=true&width=435&lines=Digital+Architect;AI+Sorcerer;Reality+Engineer;Tech+Visionary;Code+Alchemist;Dream+Weaver;Innovation+Sage" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A28F7&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Alchemist;Creative+Technologist;Digital+Dreamweaver" alt="Typing SVG" />
-
-╰┈➤ Crafting Digital Magic at the Intersection of AI & Innovation
+```ascii
+                 /\
+                /  \
+               /    \
+              /      \
+             /        \
+            /__________\
+           /\__________/\
+          /  \        /  \
+         /    \      /    \
+        /      \    /      \
+       /        \  /        \
+      /__________\/__________\
+```
 
 </div>
 
-## ⚡ Digital Grimoire
+> *"In a universe of infinite possibilities, I craft digital realities that transcend imagination"*
+
+## 🌌 Dimensional Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Devsaura-Enter_The_Matrix-blueviolet?style=for-the-badge&logo=about.me&logoColor=white)](https://devsaura.com)
+[![Email](https://img.shields.io/badge/Summon_Me-✉️_saadaryf@gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadaryf@gmail.com)
+
+## 🎭 Reality Warping Projects
+
+### ⚡ PresentPro AI ⚡
+```ascii
+     ┌──────────────────────────┐
+     │   Speech Enhancement     │
+     │   Neural Networks       │
+     │   Reality Augmentation  │
+     └──────────────────────────┘
+```
+> *Transcending human limitations through AI-powered presentation mastery*
+- 🧠 Neural feedback loops
+- 🎭 Emotion-aware analytics
+- 🌊 Flow state optimization
+- [🌟 Enter the Realm](https://speech.devsaura.com)
+
+### 🎨 Rangrez AI 🎨
+```ascii
+     ┌──────────────────────────┐
+     │   Design Alchemy        │
+     │   Creative Synthesis    │
+     │   Digital Dreams        │
+     └──────────────────────────┘
+```
+> *Where imagination materializes into digital reality*
+- 🎭 Reality-bending design generation
+- 🌈 Quantum creativity engine
+- ✨ Multi-dimensional artistic synthesis
+- [🌟 Pierce the Veil](https://rangrezai.com)
+
+## 🪄 Tech Arcanum
 
 ```ascii
-🌌 Frontend Cosmos        🔮 AI Realm              🏰 Backend Kingdom
-├─ React                  ├─ NLP                   ├─ Spring Boot
-├─ Three.js              ├─ Computer Vision       ├─ Flask
-└─ WebGL                 └─ Machine Learning      └─ System Design
+⚡ Frontend Dimension     🧠 AI Nexus           🏰 Backend Sanctum
+├─ Reality Shaping       ├─ Mind Synthesis     ├─ System Alchemy
+├─ Visual Sorcery        ├─ Vision Crafting    ├─ Data Weaving
+└─ Experience Forging    └─ Neural Artistry    └─ Logic Smithing
 ```
 
-## 🌟 Enchanted Creations
-
-### 🎭 PresentPro AI
-> A mystical mirror for public speaking mastery
-- 🔮 Real-time presentation analysis
-- 🎯 AI-powered speech enhancement
-- ⚡ Dynamic feedback system
-- 🌟 [Experience the Magic](https://speech.devsaura.com)
-
-### 🎨 Rangrez AI
-> Weaving dreams into designs through AI
-- 🎭 AI-powered design generation
-- ✨ Creative community hub
-- 🌈 Infinite design possibilities
-- 🌟 [Enter the Studio](https://rangrezai.com)
-
-### 🌌 Devsaura
-> A portal to a 3D digital dreamscape
-- 🌠 Interactive neon realms
-- 💫 Matrix-style animations
-- 🎆 Shader-based wonders
-- 🌟 [Step Inside](https://devsaura.com)
-
-## 🪄 Magical Metrics
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadaryf&theme=midnight-purple&hide_border=true)](https://github.com/saadaryf)
+## ⚛️ Power Manifestation
 
 ![Skills](https://skillicons.dev/icons?i=react,python,java,spring,docker,aws,flask,threejs,git&theme=dark)
 
-</div>
-
-## 🌌 Dimensional Gateway
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devsaura.com-9cf?style=for-the-badge&logo=about.me&logoColor=white)](https://devsaura.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadaryf)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadaryf@gmail.com)
+```ascii
+           .・。.・゜✭・.・✫・゜・。.
+    "Beyond code, beyond logic, beyond reality itself"
+           .・。.・゜✭・.・✫・゜・。.
+```
+
+[![Matrix](https://img.shields.io/badge/Enter-The_Matrix-success?style=for-the-badge&logo=matrix&logoColor=white)](https://devsaura.com)
+[![Void](https://img.shields.io/badge/Touch-The_Void-purple?style=for-the-badge&logo=darkside&logoColor=white)](https://linkedin.com/in/saadaryf)
 
 ```ascii
-       .・。.・゜✭・.・✫・゜・。.        
-    ✧  Keep Exploring the Code Cosmos  ✧
-       .・。.・゜✭・.・✫・゜・。.        
+     ╱|、
+    (˚ˎ 。7  
+     |、˜〵          
+     じしˍ,)ノ
 ```
 
 </div>
